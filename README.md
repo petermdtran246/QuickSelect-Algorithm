@@ -1,4 +1,4 @@
-# QuickSelect Algorithm in Python
+# QuickSelect Algorithm
 ## Overview
 This repository contains a Python implementation of the QuickSelect algorithm, which is used to find the k-th smallest element in an unsorted array. The QuickSelect algorithm is an efficient selection algorithm that works in average-case O(n) time.
 
